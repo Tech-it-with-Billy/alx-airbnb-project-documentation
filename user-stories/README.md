@@ -1,0 +1,1 @@
+This repository contain samples of user stories.
